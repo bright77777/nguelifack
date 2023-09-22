@@ -1,0 +1,2 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJJJqyyJC9zpJn2QfiwBvd0zUVX7kOiO/40oZMmsV59i brightjohson77777@gmail.com
+//sh-3.2# ssh-keygen -t ed25219 -C  "brightjohson77777@gmail.com" genwrere
